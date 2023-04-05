@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Machine Learning and Signal Processing Laboratory, University of Houston, Director: Prof. Saurabh Prasad"
+title: "Machine Learning and Signal Processing Laboratory"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
