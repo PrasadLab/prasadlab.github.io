@@ -1,6 +1,10 @@
 ---
+permalink: /
 title: "Teaching"
-permalink: /teaching/
+excerpt: "Teaching"
+author_profile: true
+redirect_from: 
+  - /teaching/
 ---
 
 Sparse Representations in Signal Processing
