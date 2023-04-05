@@ -2,9 +2,7 @@
 permalink: /teaching
 title: "Teaching"
 excerpt: "Teaching"
-author_profile: true
-redirect_from: 
-  - /teaching/
+author_profile: false
 ---
 
 Sparse Representations in Signal Processing
