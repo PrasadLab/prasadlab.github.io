@@ -13,6 +13,10 @@ The research focus of our lab is advancing machine learning and image processing
 
 ## Multi-Scale, Multi-Sensor GeoAI
 
+See the following page for details on our ongoing NASA GeoAI project.
+[go](https://github.com/PrasadLab/NASA-GeoAI-Project){:target="_blank" rel="noopener"}
 
-## AI for Highly Multiplex Brain Tissue Imaging
+## AI in Biomedicine 
+
+### Highly Multiplex Brain Tissue Imaging
 
