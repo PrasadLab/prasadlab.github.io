@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Prof. Saurabh Prasad"
   avatar           : #"me.jpg"
-  bio              : "Professor of Electrical and Computer Engineering and Lab Director#"Director, Machine Learning and Signal Processing Laboratory;  Department of Electrical and Computer Engineering"
+  bio              : "Professor of Electrical and Computer Engineering and Lab Director" #Director, Machine Learning and Signal Processing Laboratory;  Department of Electrical and Computer Engineering"
   location         : "University of Houston"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
