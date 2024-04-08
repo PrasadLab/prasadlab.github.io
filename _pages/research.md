@@ -6,3 +6,7 @@ author_profile: true
 ---
 
 Research Highlights
+
+Our current work is funded by 
+
+# Current Projects
