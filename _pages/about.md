@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /
 title: "Machine Learning and Signal Processing Laboratory"
 excerpt: "About me"
 author_profile: true
