@@ -5,8 +5,14 @@ excerpt: "Teaching"
 author_profile: true
 ---
 
-Sparse Representations in Signal Processing
-This is a description of a teaching experience. You can use markdown like any other post.
+A summary of recent courses offered is provided below. 
+
+## ECE 6381: Sparse Representations 
+
+## ECE 6337: Stochastic Processes
+
+## ECE 6397: Advanced Deep Learning for Image Analysis
+
 
 <details>
   <summary>ECE 6381</summary>
@@ -17,12 +23,3 @@ This is a description of a teaching experience. You can use markdown like any ot
      * With some
      * Sub bullets
 </details>
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
