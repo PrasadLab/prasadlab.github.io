@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 Recent Books:
+| Elsevier, Book on GeoAI (2024)             |  Hyperspectral Image Analysis (2020) |
+:-------------------------:|:-------------------------:
+| ![](images/ImageAssets/Elsevier_2024.png) | ![](images/ImageAssets/Springer_2020.png)
 
 
 Select recent publications (past 3 years) from our lab are listed below. For a full list, please check out this [Google Scholar link](https://scholar.google.com/citations?user=g_FRerIAAAAJ&hl=en&oi=ao){:target="_blank" rel="noopener"}.
