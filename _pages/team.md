@@ -7,6 +7,7 @@ author_profile: true
 
 > Faculty:
 > PI: Saurabh Prasad
+> The team is led by Prof. Saurabh Prasad and includes collaborators at universities such as Purdue University, UCLA, Grenoble Institute of Technology, labs such as the Oak Ridge National Lab (ORNL), INRIA, and industry (e.g. AWS, IBM Research etc.) 
 
 Current Graduate Students:
 
