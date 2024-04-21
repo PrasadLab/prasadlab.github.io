@@ -1,5 +1,12 @@
-Faculty:
-PI: Saurabh Prasad
+---
+layout: archive
+title: "Team"
+permalink: /team/
+author_profile: true
+---
+
+> Faculty:
+> PI: Saurabh Prasad
 
 Current Graduate Students:
 
