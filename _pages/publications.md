@@ -21,3 +21,9 @@ Select recent publications (past 3 years) from our lab are listed below. For a f
 - J. Silvestre, S. Prasad, "Spatially constrained deep semantic segmentation of geospatial imagery for building footprint extraction," In Proceedings of the SPIE DCS Conference, 2023.
 
 - N. Makkar, L. Yang, S.  Prasad, "Adversarial learning based discriminative domain adaptation for geospatial image analysis," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 15, 150-162, 2022.
+- S. Prasad, J. Chanussot, "Hyperspectral Image Analysis: Advances in Machine Learning and Signal Processing," Springer Nature, 2020.
+- S. Mukherjee, S. Prasad, "A spatial-spectral semisupervised deep learning framework using siamese networks and angular loss", in _Computer Vision and Image Understanding_, 2020
+- K. Safari, S. Prasad, D. Labate, "A Multiscale Deep Learning Approach for High-Resolution Hyperspectral Image Classification," in IEEE Geoscience and Remote Sensing Letters, 2020
+- F. Shahraki, S. Prasad, "Joint Spatial and Graph Convolutional Neural Networks-A Hybrid Model for Spatial-Spectral Geospatial Image Analysis", in Proceedings of IEEE IGARSS, 2020
+- D Labate, K Safari, N Karantzas, S Prasad, FF Shahraki, "Structured receptive field networks and applications to hyperspectral image classification," in Wavelets and Sparsity, 2019
+- JL Contreras-Vidal, S Prasad, A Kilicarslan, N Bhagat, R Bhattacharyya, RM Uhlenbrock, DW Payton, JS Panova, JD Marcus, TB Panova, EC Leuthardt, LJ Love, R Coker, DW Moran, P Nuyujukian, JC Kao, K Shenoy, ND Schiff, JC Kao, P Nuyujukian, MM Churchland, JP Cunningham, K Shenoy, "Brain–machine interfaces", Nature Biotechnology, 2019
