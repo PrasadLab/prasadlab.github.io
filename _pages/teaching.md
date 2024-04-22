@@ -7,7 +7,7 @@ author_profile: true
 
 A summary of recent courses offered is provided below. 
 
- ## ECE 6381: Sparse Representations for Signal Processing 
+## ECE 6381: Sparse Representations for Signal Processing 
 Sparse representations are a foundational tool for modern signal processing and data analysis and have a
 wide range of applications, including denoising, compression, compressive sensing, machine learning
 etc. for a variety of signals including speech (audio), images, and video. The course will focus on
