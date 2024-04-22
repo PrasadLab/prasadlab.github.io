@@ -1,7 +1,7 @@
 ---
 title: 'Elsevier Book'
 date: 2024-04-01
-permalink: /posts/2024/04/blogpostApril24Elsevier/
+permalink: /posts/2024/04/ElsevierBook/
 tags:
   - cool posts
   - category1
