@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 > Faculty:
-> The team is led by Prof. Saurabh Prasad and includes collaborators at universities such as Purdue University, UCLA, Grenoble Institute of Technology, labs such as the Oak Ridge National Lab (ORNL), INRIA, NIH, and the industry (e.g. AWS). 
+> The team is led by Prof. Saurabh Prasad at UH. Our past and current projects includes faculty and scientists at universities such as Purdue University, UCLA, Grenoble Institute of Technology, labs such as the Oak Ridge National Lab (ORNL), INRIA, NIH, and the industry (e.g. AWS). 
 
 > Current Graduate Students:
 >
