@@ -9,7 +9,7 @@ author_profile: true
 > 
 > | Elsevier, Book on GeoAI (2024)             |  Hyperspectral Image Analysis (2020) | 
 > |:-------------------------:|:-------------------------:|
-> | <a href="https://shop.elsevier.com/books/advances-in-machine-learning-and-image-analysis-for-geoai/prasad/978-0-443-19077-3" target="_blank"> <img src="https://prasadlab.github.io/images/ImageAssets/Elsevier_2024.jpg" width="200" /> </a>|  <img src="https://prasadlab.github.io/images/ImageAssets/Springer_2020.png" width="200" /> |
+> | <a href="https://shop.elsevier.com/books/advances-in-machine-learning-and-image-analysis-for-geoai/prasad/978-0-443-19077-3" target="_blank"> <img src="https://prasadlab.github.io/images/ImageAssets/Elsevier_2024.jpg" width="200" /> </a>|  <a href="https://link.springer.com/book/10.1007/978-3-030-38617-7" target="_blank"> <img src="https://prasadlab.github.io/images/ImageAssets/Springer_2020.png" width="200" /> </a> |
 
 ## Select Recent Publications 
 Select recent publications from our lab are listed below. For a full list, please check out this [Google Scholar link](https://scholar.google.com/citations?user=g_FRerIAAAAJ&hl=en&oi=ao){:target="_blank" rel="noopener"}.
