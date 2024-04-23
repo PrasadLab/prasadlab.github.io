@@ -33,3 +33,14 @@ these will be tested through a project based on Python, where students will lear
 to apply concepts learned in class on practical problems.
 
 ## ECE 6397: Advanced Deep Learning for Image Analysis
+This is an advanced course in deep learning with a special emphasis on Image Analysis tasks. It covers recent advances in deep learning for challenging image analysis applications, including analysis of multi-channel, multi-sensor imagery and learning under challenging conditions, including with limited ground-truth data. The course will cover recent developments in deep learning for image analysis, such as:
+-	Deep Learning with multi-channel imagery
+-	Deep Learning with limited ground-truth 
+-	GANs for data augmentation and style/model transfer
+-	Vision Transformers
+-	Self-Supervised Learning
+-	Transfer Learning
+-	Multi-Task and Meta-Learning
+  
+The course will involve examples from real-world use-cases, including applications to GeoAI (geospatial imagery acquired from aircraft or satellites). There will be hands-on projects pertaining to the concepts discussed in this course, where students will deploy their understanding of the algorithms on real-world use-cases provided by the instructor. In addition to the lecture materials, students are also expected to read related papers and present them to the class. 
+
